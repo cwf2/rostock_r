@@ -1,0 +1,699 @@
+﻿work,book,from_line,to_line,speaker,addressee,cluster_id,cluster_part,simple_cluster_type,length,embedded_level,spkr_type
+Iliad,1,17,21,Chryses,Agamemnon and Greeks,1,1,general interlocution,5,0,mortal
+Iliad,1,26,32,Agamemnon,Chryses,1,2,general interlocution,7,0,mortal
+Iliad,1,37,42,Chryses,Apollo,2,1,monologue,6,0,mortal
+Iliad,1,59,67,Achilles,Agamemnon,3,1,general interlocution,9,0,mortal
+Iliad,1,74,83,Calchas,Achilles,3,2,general interlocution,10,0,mortal
+Iliad,1,85,91,Achilles,Calchas,3,3,general interlocution,7,0,mortal
+Iliad,1,93,100,Calchas,Achilles,3,4,general interlocution,8,0,mortal
+Iliad,1,106,120,Agamemnon,Calchas,3,5,general interlocution,15,0,mortal
+Iliad,1,122,129,Achilles,Agamemnon,3,6,general interlocution,8,0,mortal
+Iliad,1,131,147,Agamemnon,Achilles,3,7,general interlocution,17,0,mortal
+Iliad,1,149,171,Achilles,Agamemnon,3,8,general interlocution,23,0,mortal
+Iliad,1,173,187,Agamemnon,Achilles,3,9,general interlocution,15,0,mortal
+Iliad,1,202,205,Achilles,Athena,4,1,dialogue,4,0,mortal
+Iliad,1,207,214,Athena,Achilles,4,2,dialogue,8,0,god
+Iliad,1,216,218,Achilles,Athena,4,3,dialogue,3,0,mortal
+Iliad,1,225,244,Achilles,Agamemnon,3,10,general interlocution,20,0,mortal
+Iliad,1,254,284,Nestor,Agamemnon and Achilles,3,11,general interlocution,31,0,mortal
+Iliad,1,286,291,Agamemnon,Nestor,3,12,general interlocution,6,0,mortal
+Iliad,1,293,303,Achilles,Agamemnon,3,13,general interlocution,11,0,mortal
+Iliad,1,322,325,Agamemnon,Talthybius and Eurybates,5,1,monologue,4,0,mortal
+Iliad,1,334,344,Achilles,Talthybius and Eurybates and Patroclus,6,1,monologue,11,0,mortal
+Iliad,1,352,356,Achilles,Thetis,7,1,dialogue,5,0,mortal
+Iliad,1,362,363,Thetis,Achilles,7,2,dialogue,2,0,god
+Iliad,1,365,412,Achilles,Thetis,7,3,dialogue,48,0,mortal
+Iliad,1,414,427,Thetis,Achilles,7,4,dialogue,14,0,god
+Iliad,1,442,445,Odysseus,Chryses,8,1,monologue,4,0,mortal
+Iliad,1,451,456,Chryses,Apollo,9,1,monologue,6,0,mortal
+Iliad,1,503,510,Thetis,Zeus,10,1,dialogue,8,0,god
+Iliad,1,514,516,Thetis,Zeus,10,2,dialogue,3,0,god
+Iliad,1,518,527,Zeus,Thetis,10,3,dialogue,10,0,god
+Iliad,1,540,543,Hera,Zeus,11,1,dialogue,4,0,god
+Iliad,1,545,550,Zeus,Hera,11,2,dialogue,6,0,god
+Iliad,1,552,559,Hera,Zeus,11,3,dialogue,8,0,god
+Iliad,1,561,567,Zeus,Hera,11,4,dialogue,7,0,god
+Iliad,1,573,583,Hephaestus,gods,12,1,monologue,11,0,god
+Iliad,1,586,594,Hephaestus,Hera,13,1,monologue,9,0,god
+Iliad,2,8,15,Zeus,dream,14,1,monologue,8,0,god
+Iliad,2,23,34,dream,Agamemnon,15,1,monologue,12,0,god
+Iliad,2,56,75,Agamemnon,leaders of the Greeks (Greek soldiers),16,1,general interlocution,20,0,mortal
+Iliad,2,60,70,dream,Agamemnon,17,1,monologue,11,1,god
+Iliad,2,79,83,Nestor,leaders of the Greeks (Greek soldiers),17,2,general interlocution,5,0,mortal
+Iliad,2,110,141,Agamemnon,Greeks,18,1,monologue,32,0,mortal
+Iliad,2,157,165,Hera,Athena,19,1,monologue,9,0,god
+Iliad,2,173,181,Athena,Odysseus,20,1,monologue,9,0,god
+Iliad,2,190,197,Odysseus,leaders of the Greeks (Greek soldiers),21,1,monologue,8,0,mortal
+Iliad,2,200,206,Odysseus,Greeks,22,1,monologue,7,0,mortal
+Iliad,2,225,242,Thersites,Agamemnon,23,1,general interlocution,18,0,mortal
+Iliad,2,246,264,Odysseus,Thersites,23,2,general interlocution,19,0,mortal
+Iliad,2,272,277,Greeks,Greeks,24,1,monologue,6,0,mortal
+Iliad,2,284,332,Odysseus,Greeks,25,1,general interlocution,49,0,mortal
+Iliad,2,323,329,Calchas,Greeks,26,1,monologue,7,1,mortal
+Iliad,2,337,368,Nestor,Greeks,25,2,general interlocution,32,0,mortal
+Iliad,2,370,393,Agamemnon,Greeks and Nestor and Apollo and Zeus and Athena,25,3,general interlocution,24,0,mortal
+Iliad,2,412,418,Agamemnon,Zeus,27,1,monologue,7,0,mortal
+Iliad,2,434,440,Nestor,Agamemnon,28,1,monologue,7,0,mortal
+Iliad,2,796,806,Iris,Priam,29,1,monologue,11,0,god
+Iliad,3,39,57,Hector,Paris,30,1,dialogue,19,0,mortal
+Iliad,3,59,75,Paris,Hector,30,2,dialogue,17,0,mortal
+Iliad,3,82,83,Agamemnon,Greeks,31,1,monologue,2,0,mortal
+Iliad,3,86,94,Hector,Greeks and Trojans,32,1,general interlocution,9,0,mortal
+Iliad,3,97,110,Menelaus,Greeks and Trojans,32,2,general interlocution,14,0,mortal
+Iliad,3,130,138,Iris,Helena,33,1,monologue,9,0,god
+Iliad,3,156,160,Trojan old men,Trojan old men,34,1,monologue,5,0,mortal
+Iliad,3,162,170,Priam,Helena,35,1,general interlocution,9,0,mortal
+Iliad,3,172,180,Helena,Priam,35,2,general interlocution,9,0,mortal
+Iliad,3,182,190,Priam,Helena,35,3,general interlocution,9,0,mortal
+Iliad,3,192,198,Priam,Helena,35,4,general interlocution,7,0,mortal
+Iliad,3,200,202,Helena,Priam,35,5,general interlocution,3,0,mortal
+Iliad,3,204,224,Antenor,Helena,35,6,general interlocution,21,0,mortal
+Iliad,3,226,227,Priam,Helena,35,7,general interlocution,2,0,mortal
+Iliad,3,229,242,Helena,Priam,35,8,general interlocution,14,0,mortal
+Iliad,3,250,258,Idaeus,Priam,36,1,monologue,9,0,mortal
+Iliad,3,276,291,Agamemnon,Zeus,37,1,monologue,16,0,mortal
+Iliad,3,298,301,someone,Zeus,38,1,monologue,4,0,mortal
+Iliad,3,304,309,Priam,Greeks and Trojans,39,1,monologue,6,0,mortal
+Iliad,3,320,323,someone,Zeus,40,1,monologue,4,0,mortal
+Iliad,3,351,354,Menelaus,Zeus,41,1,monologue,4,0,mortal
+Iliad,3,365,368,Menelaus,Zeus,42,1,monologue,4,0,mortal
+Iliad,3,390,394,Aphrodite,Helena,43,1,dialogue,5,0,god
+Iliad,3,399,412,Helena,Aphrodite,43,2,dialogue,14,0,mortal
+Iliad,3,414,417,Aphrodite,Helena,43,3,dialogue,4,0,god
+Iliad,3,428,436,Helena,Paris,44,1,dialogue,9,0,mortal
+Iliad,3,438,446,Paris,Helena,44,2,dialogue,9,0,mortal
+Iliad,3,456,460,Agamemnon,Greeks and Trojans,45,1,monologue,5,0,mortal
+Iliad,4,7,19,Zeus,gods,46,1,general interlocution,13,0,god
+Iliad,4,25,29,Hera,Zeus,46,2,general interlocution,5,0,god
+Iliad,4,31,49,Zeus,Hera,46,3,general interlocution,19,0,god
+Iliad,4,51,67,Hera,Zeus,46,4,general interlocution,17,0,god
+Iliad,4,70,72,Zeus,Athena,46,5,general interlocution,3,0,god
+Iliad,4,82,84,someone,someone,47,1,monologue,3,0,mortal
+Iliad,4,93,103,Athena,Pandarus,48,1,monologue,11,0,god
+Iliad,4,155,182,Agamemnon,Menelaus,49,1,dialogue,28,0,mortal
+Iliad,4,178,181,someone,self,50,1,soliloquy,4,1,mortal
+Iliad,4,184,187,Menelaus,Agamemnon,49,2,dialogue,4,0,mortal
+Iliad,4,189,191,Agamemnon,Menelaus,49,3,dialogue,3,0,mortal
+Iliad,4,193,197,Agamemnon,Talthybius,51,1,monologue,5,0,mortal
+Iliad,4,204,207,Talthybius,Machaon,52,1,monologue,4,0,mortal
+Iliad,4,234,239,Agamemnon,Greeks,53,1,monologue,6,0,mortal
+Iliad,4,242,249,Agamemnon,Greeks,54,1,monologue,8,0,mortal
+Iliad,4,257,264,Agamemnon,Idomeneus,55,1,dialogue,8,0,mortal
+Iliad,4,266,271,Idomeneus,Agamemnon,55,2,dialogue,6,0,mortal
+Iliad,4,285,291,Agamemnon,Aias (son of Telamon) and Aias (son of Oileus),56,1,monologue,7,0,mortal
+Iliad,4,303,309,Nestor,Greeks,57,1,monologue,7,0,mortal
+Iliad,4,313,316,Agamemnon,Nestor,58,1,dialogue,4,0,mortal
+Iliad,4,318,325,Nestor,Agamemnon,58,2,dialogue,8,0,mortal
+Iliad,4,338,348,Agamemnon,Menestheus,59,1,general interlocution,11,0,mortal
+Iliad,4,350,355,Odysseus,Agamemnon,59,2,general interlocution,6,0,mortal
+Iliad,4,358,363,Agamemnon,Odysseus,59,3,general interlocution,6,0,mortal
+Iliad,4,370,400,Agamemnon,Diomedes,60,1,general interlocution,31,0,mortal
+Iliad,4,404,410,Sthenelus,Agamemnon,60,2,general interlocution,7,0,mortal
+Iliad,4,412,418,Diomedes,Sthenelus,60,3,general interlocution,7,0,mortal
+Iliad,4,509,513,Apollo,Trojans,61,1,monologue,5,0,god
+Iliad,5,31,34,Athena,Ares,62,1,monologue,4,0,god
+Iliad,5,102,105,Pandarus,Trojans,63,1,monologue,4,0,mortal
+Iliad,5,109,110,Diomedes,Sthenelus,64,1,monologue,2,0,mortal
+Iliad,5,115,120,Diomedes,Athena,65,1,dialogue,6,0,mortal
+Iliad,5,124,132,Athena,Diomedes,65,2,dialogue,9,0,god
+Iliad,5,171,178,Aeneas,Pandarus,66,1,dialogue,8,0,mortal
+Iliad,5,180,216,Pandarus,Aeneas,66,2,dialogue,37,0,mortal
+Iliad,5,218,228,Aeneas,Pandarus,66,3,dialogue,11,0,mortal
+Iliad,5,230,238,Pandarus,Aeneas,66,4,dialogue,9,0,mortal
+Iliad,5,243,250,Sthenelus,Diomedes,67,1,dialogue,8,0,mortal
+Iliad,5,252,273,Diomedes,Sthenelus,67,2,dialogue,22,0,mortal
+Iliad,5,277,279,Pandarus,Diomedes,68,1,dialogue,3,0,mortal
+Iliad,5,284,285,Pandarus,Diomedes,68,2,dialogue,2,0,mortal
+Iliad,5,287,289,Diomedes,Pandarus,68,3,dialogue,3,0,mortal
+Iliad,5,348,351,Diomedes,Aphrodite,69,1,monologue,4,0,mortal
+Iliad,5,359,362,Aphrodite,Ares,70,1,monologue,4,0,god
+Iliad,5,373,374,Dione,Aphrodite,71,1,dialogue,2,0,god
+Iliad,5,376,380,Aphrodite,Dione,71,2,dialogue,5,0,god
+Iliad,5,382,415,Dione,Aphrodite,71,3,dialogue,34,0,god
+Iliad,5,421,425,Athena,Zeus,72,1,dialogue,5,0,god
+Iliad,5,428,430,Zeus,Aphrodite,72,2,dialogue,3,0,god
+Iliad,5,440,442,Apollo,Diomedes,73,1,monologue,3,0,god
+Iliad,5,455,459,Apollo,Ares,74,1,monologue,5,0,god
+Iliad,5,464,469,Ares,Trojans,75,1,dialogue,6,0,god
+Iliad,5,472,492,Sarpedon,Hector,75,2,dialogue,21,0,mortal
+Iliad,5,529,532,Agamemnon,Greeks,76,1,monologue,4,0,mortal
+Iliad,5,601,606,Diomedes,Greeks,77,1,monologue,6,0,mortal
+Iliad,5,633,646,Tlepolemus,Sarpedon,78,1,dialogue,14,0,mortal
+Iliad,5,648,654,Sarpedon,Tlepolemus,78,2,dialogue,7,0,mortal
+Iliad,5,684,688,Sarpedon,Hector,79,1,monologue,5,0,mortal
+Iliad,5,714,718,Hera,Athena,80,1,monologue,5,0,god
+Iliad,5,757,763,Hera,Zeus,81,1,dialogue,7,0,god
+Iliad,5,765,766,Zeus,Hera,81,2,dialogue,2,0,god
+Iliad,5,787,791,Hera,Greeks,82,1,monologue,5,0,god
+Iliad,5,800,813,Athena,Diomedes,83,1,dialogue,14,0,god
+Iliad,5,815,824,Diomedes,Athena,83,2,dialogue,10,0,mortal
+Iliad,5,826,834,Athena,Diomedes,83,3,dialogue,9,0,god
+Iliad,5,872,887,Ares,Zeus,84,1,dialogue,16,0,god
+Iliad,5,889,898,Zeus,Ares,84,2,dialogue,10,0,god
+Iliad,6,46,50,Adrastus,Menelaus,85,1,monologue,5,0,mortal
+Iliad,6,55,60,Agamemnon,Menelaus,86,1,monologue,6,0,mortal
+Iliad,6,67,71,Nestor,Greeks,87,1,monologue,5,0,mortal
+Iliad,6,77,101,Helenus,Hector,88,1,monologue,25,0,mortal
+Iliad,6,111,115,Hector,Trojans,89,1,monologue,5,0,mortal
+Iliad,6,123,143,Diomedes,Glaucus (Lycian),90,1,dialogue,21,0,mortal
+Iliad,6,145,211,Glaucus (Lycian),Diomedes,90,2,dialogue,67,0,mortal
+Iliad,6,164,165,Antea,Proetus,91,1,monologue,2,1,mortal
+Iliad,6,215,231,Diomedes,Glaucus (Lycian),90,3,dialogue,17,0,mortal
+Iliad,6,254,262,Hecuba,Hector,92,1,dialogue,9,0,mortal
+Iliad,6,264,285,Hector,Hecuba,92,2,dialogue,22,0,mortal
+Iliad,6,305,310,Theano,Athena,93,1,monologue,6,0,mortal
+Iliad,6,326,331,Hector,Paris,94,1,general interlocution,6,0,mortal
+Iliad,6,333,341,Paris,Hector,94,2,general interlocution,9,0,mortal
+Iliad,6,344,358,Helena,Hector,94,3,general interlocution,15,0,mortal
+Iliad,6,360,368,Hector,Helena,94,4,general interlocution,9,0,mortal
+Iliad,6,376,380,Hector,female servants,95,1,dialogue,5,0,mortal
+Iliad,6,382,389,female servant,Hector,95,2,dialogue,8,0,mortal
+Iliad,6,407,439,Andromache,Hector,96,1,dialogue,33,0,mortal
+Iliad,6,441,465,Hector,Andromache,96,2,dialogue,25,0,mortal
+Iliad,6,460,461,someone,self,97,1,soliloquy,2,1,mortal
+Iliad,6,476,481,Hector,Zeus,98,1,monologue,6,0,mortal
+Iliad,6,479,479,someone,self,99,1,soliloquy,1,1,mortal
+Iliad,6,486,493,Hector,Andromache,96,3,dialogue,8,0,mortal
+Iliad,6,518,519,Paris,Hector,100,1,dialogue,2,0,mortal
+Iliad,6,521,529,Hector,Paris,100,2,dialogue,9,0,mortal
+Iliad,7,24,32,Apollo,Athena,101,1,dialogue,9,0,god
+Iliad,7,34,36,Athena,Apollo,101,2,dialogue,3,0,god
+Iliad,7,38,42,Apollo,Athena,101,3,dialogue,5,0,god
+Iliad,7,47,53,Helenus,Hector,102,1,monologue,7,0,mortal
+Iliad,7,67,91,Hector,Greeks and Trojans,103,1,general interlocution,25,0,mortal
+Iliad,7,89,90,someone,self,104,1,soliloquy,2,1,mortal
+Iliad,7,96,102,Menelaus,Greeks,103,2,general interlocution,7,0,mortal
+Iliad,7,109,119,Agamemnon,Menelaus,105,1,monologue,11,0,mortal
+Iliad,7,124,160,Nestor,Greeks,103,3,general interlocution,37,0,mortal
+Iliad,7,171,174,Nestor,Greeks,103,4,general interlocution,4,0,mortal
+Iliad,7,179,180,someone,Zeus,106,1,monologue,2,0,mortal
+Iliad,7,191,199,Aias (son of Telamon),Greeks,103,5,general interlocution,9,0,mortal
+Iliad,7,202,205,someone,Zeus,107,1,monologue,4,0,mortal
+Iliad,7,226,232,Aias (son of Telamon),Hector,103,6,general interlocution,7,0,mortal
+Iliad,7,234,243,Hector,Aias (son of Telamon),103,7,general interlocution,10,0,mortal
+Iliad,7,279,282,Idaeus,Aias (son of Telamon) and Hector,103,8,general interlocution,4,0,mortal
+Iliad,7,284,286,Aias (son of Telamon),Idaeus,103,9,general interlocution,3,0,mortal
+Iliad,7,288,302,Hector,Aias (son of Telamon),103,10,general interlocution,15,0,mortal
+Iliad,7,301,302,someone,self,108,1,soliloquy,2,1,mortal
+Iliad,7,327,343,Nestor,leaders of the Greeks (Greek soldiers),109,1,monologue,17,0,mortal
+Iliad,7,348,353,Antenor,Trojans,110,1,general interlocution,6,0,mortal
+Iliad,7,357,364,Paris,Antenor,110,2,general interlocution,8,0,mortal
+Iliad,7,368,378,Priam,Trojans,110,3,general interlocution,11,0,mortal
+Iliad,7,385,397,Idaeus,Greeks,111,1,general interlocution,13,0,mortal
+Iliad,7,400,402,Diomedes,Greeks,111,2,general interlocution,3,0,mortal
+Iliad,7,406,411,Agamemnon,Idaeus,111,3,general interlocution,6,0,mortal
+Iliad,7,446,453,Poseidon,Zeus,112,1,general interlocution,8,0,god
+Iliad,7,455,463,Zeus,Poseidon,112,2,general interlocution,9,0,god
+Iliad,8,5,27,Zeus,gods,113,1,general interlocution,23,0,god
+Iliad,8,31,37,Athena,Zeus,113,2,general interlocution,7,0,god
+Iliad,8,39,40,Zeus,Athena,113,3,general interlocution,2,0,god
+Iliad,8,93,96,Diomedes,Odysseus,114,1,monologue,4,0,mortal
+Iliad,8,102,111,Diomedes,Nestor,115,1,monologue,10,0,mortal
+Iliad,8,139,144,Nestor,Diomedes,116,1,dialogue,6,0,mortal
+Iliad,8,146,150,Diomedes,Nestor,116,2,dialogue,5,0,mortal
+Iliad,8,149,149,Hector,Trojans,117,1,monologue,1,1,mortal
+Iliad,8,152,156,Nestor,Diomedes,116,3,dialogue,5,0,mortal
+Iliad,8,161,166,Hector,Diomedes,118,1,monologue,6,0,mortal
+Iliad,8,173,183,Hector,Trojans,119,1,monologue,11,0,mortal
+Iliad,8,185,197,Hector,horses,120,1,monologue,13,0,mortal
+Iliad,8,201,207,Hera,Poseidon,121,1,dialogue,7,0,god
+Iliad,8,209,211,Poseidon,Hera,121,2,dialogue,3,0,god
+Iliad,8,228,244,Agamemnon,Greeks and Zeus,122,1,monologue,17,0,mortal
+Iliad,8,281,291,Agamemnon,Teucrus,123,1,dialogue,11,0,mortal
+Iliad,8,293,299,Teucrus,Agamemnon,123,2,dialogue,7,0,mortal
+Iliad,8,352,356,Hera,Athena,124,1,dialogue,5,0,god
+Iliad,8,358,380,Athena,Hera,124,2,dialogue,23,0,god
+Iliad,8,399,408,Zeus,Iris,125,1,monologue,10,0,god
+Iliad,8,413,424,Iris,Hera and Athena,126,1,monologue,12,0,god
+Iliad,8,427,431,Hera,Athena,127,1,monologue,5,0,god
+Iliad,8,447,456,Zeus,Hera and Athena,128,1,general interlocution,10,0,god
+Iliad,8,462,468,Hera,Zeus,128,2,general interlocution,7,0,god
+Iliad,8,470,483,Zeus,Hera,128,3,general interlocution,14,0,god
+Iliad,8,497,541,Hector,Trojans,129,1,monologue,45,0,mortal
+Iliad,9,17,28,Agamemnon,Greeks,130,1,general interlocution,12,0,mortal
+Iliad,9,32,49,Diomedes,Agamemnon,130,2,general interlocution,18,0,mortal
+Iliad,9,53,78,Nestor,Agamemnon and Diomedes,130,3,general interlocution,26,0,mortal
+Iliad,9,96,113,Nestor,Greeks,131,1,general interlocution,18,0,mortal
+Iliad,9,115,161,Agamemnon,Nestor,131,2,general interlocution,47,0,mortal
+Iliad,9,163,172,Nestor,Agamemnon,131,3,general interlocution,10,0,mortal
+Iliad,9,197,198,Achilles,Phoinix and Aias (son of Telamon) and Odysseus,132,1,monologue,2,0,mortal
+Iliad,9,202,204,Achilles,Patroclus,133,1,monologue,3,0,mortal
+Iliad,9,225,306,Odysseus,Achilles,134,1,general interlocution,82,0,mortal
+Iliad,9,254,258,Peleus,Achilles,135,1,monologue,5,1,mortal
+Iliad,9,308,429,Achilles,Odysseus,135,2,general interlocution,122,0,mortal
+Iliad,9,434,605,Phoinix,Achilles,135,3,general interlocution,172,0,mortal
+Iliad,9,607,619,Achilles,Phoinix,135,4,general interlocution,13,0,mortal
+Iliad,9,624,642,Aias (son of Telamon),Odysseus,135,5,general interlocution,19,0,mortal
+Iliad,9,644,655,Achilles,Aias (son of Telamon),135,6,general interlocution,12,0,mortal
+Iliad,9,673,675,Agamemnon,Odysseus,136,1,general interlocution,3,0,mortal
+Iliad,9,677,692,Odysseus,Agamemnon,136,2,general interlocution,16,0,mortal
+Iliad,9,697,709,Diomedes,Agamemnon,136,3,general interlocution,13,0,mortal
+Iliad,10,37,41,Menelaus,Agamemnon,137,1,dialogue,5,0,mortal
+Iliad,10,43,59,Agamemnon,Menelaus,137,2,dialogue,17,0,mortal
+Iliad,10,61,63,Menelaus,Agamemnon,137,3,dialogue,3,0,mortal
+Iliad,10,65,71,Agamemnon,Menelaus,137,4,dialogue,7,0,mortal
+Iliad,10,82,85,Nestor,Agamemnon,138,1,dialogue,4,0,mortal
+Iliad,10,87,101,Agamemnon,Nestor,138,2,dialogue,15,0,mortal
+Iliad,10,103,118,Nestor,Agamemnon,138,3,dialogue,16,0,mortal
+Iliad,10,120,127,Agamemnon,Nestor,138,4,dialogue,8,0,mortal
+Iliad,10,129,130,Nestor,Agamemnon,138,5,dialogue,2,0,mortal
+Iliad,10,141,142,Odysseus,Nestor,139,1,dialogue,2,0,mortal
+Iliad,10,144,147,Nestor,Odysseus,139,2,dialogue,4,0,mortal
+Iliad,10,159,161,Nestor,Diomedes,140,1,dialogue,3,0,mortal
+Iliad,10,164,167,Diomedes,Nestor,140,2,dialogue,4,0,mortal
+Iliad,10,169,176,Nestor,Diomedes,140,3,dialogue,8,0,mortal
+Iliad,10,192,193,Nestor,guards,141,1,monologue,2,0,mortal
+Iliad,10,204,217,Nestor,Greeks,142,1,general interlocution,14,0,mortal
+Iliad,10,220,226,Diomedes,Nestor,142,2,general interlocution,7,0,mortal
+Iliad,10,234,239,Agamemnon,Diomedes,142,3,general interlocution,6,0,mortal
+Iliad,10,242,247,Diomedes,Agamemnon,142,4,general interlocution,6,0,mortal
+Iliad,10,249,253,Odysseus,Diomedes,142,5,general interlocution,5,0,mortal
+Iliad,10,278,282,Odysseus,Athena,143,1,monologue,5,0,mortal
+Iliad,10,284,294,Diomedes,Athena,144,1,monologue,11,0,mortal
+Iliad,10,303,312,Hector,Trojans,145,1,general interlocution,10,0,mortal
+Iliad,10,319,327,Dolon,Hector and Trojans,145,2,general interlocution,9,0,mortal
+Iliad,10,329,331,Hector,Dolon,145,3,general interlocution,3,0,mortal
+Iliad,10,341,348,Odysseus,Diomedes,146,1,monologue,8,0,mortal
+Iliad,10,370,371,Diomedes,Dolon,147,1,general interlocution,2,0,mortal
+Iliad,10,378,381,Dolon,Diomedes,147,2,general interlocution,4,0,mortal
+Iliad,10,383,389,Odysseus,Dolon,147,3,general interlocution,7,0,mortal
+Iliad,10,391,399,Dolon,Odysseus,147,4,general interlocution,9,0,mortal
+Iliad,10,401,411,Odysseus,Dolon,147,5,general interlocution,11,0,mortal
+Iliad,10,413,422,Dolon,Odysseus,147,6,general interlocution,10,0,mortal
+Iliad,10,424,425,Odysseus,Dolon,147,7,general interlocution,2,0,mortal
+Iliad,10,427,445,Dolon,Odysseus,147,8,general interlocution,19,0,mortal
+Iliad,10,447,453,Odysseus,Dolon,147,9,general interlocution,7,0,mortal
+Iliad,10,462,464,Odysseus,Athena,148,1,monologue,3,0,mortal
+Iliad,10,477,481,Odysseus,Diomedes,149,1,monologue,5,0,mortal
+Iliad,10,509,511,Athena,Diomedes,150,1,monologue,3,0,god
+Iliad,10,533,539,Nestor,Greeks,151,1,monologue,7,0,mortal
+Iliad,10,544,553,Nestor,Diomedes and Odysseus,152,1,general interlocution,10,0,mortal
+Iliad,10,555,563,Odysseus,Nestor,152,2,general interlocution,9,0,mortal
+Iliad,11,131,135,Peisander and Hippolochus,Agamemnon,153,1,general interlocution,5,0,mortal
+Iliad,11,138,142,Agamemnon,Peisander and Hippolochus,153,2,general interlocution,5,0,mortal
+Iliad,11,186,194,Zeus,Iris,154,1,monologue,9,0,god
+Iliad,11,200,209,Iris,Hector,155,1,monologue,10,0,god
+Iliad,11,276,279,Agamemnon,Greeks,156,1,monologue,4,0,mortal
+Iliad,11,286,290,Hector,Trojans,157,1,monologue,5,0,mortal
+Iliad,11,313,315,Odysseus,Diomedes,158,1,dialogue,3,0,mortal
+Iliad,11,317,319,Diomedes,Odysseus,158,2,dialogue,3,0,mortal
+Iliad,11,347,348,Diomedes,Odysseus,159,1,monologue,2,0,mortal
+Iliad,11,362,367,Diomedes,Hector,160,1,monologue,6,0,mortal
+Iliad,11,380,383,Paris,Diomedes,161,1,dialogue,4,0,mortal
+Iliad,11,385,395,Diomedes,Paris,161,2,dialogue,11,0,mortal
+Iliad,11,404,410,Odysseus,self,162,1,soliloquy,7,0,mortal
+Iliad,11,430,433,Socus,Odysseus,163,1,dialogue,4,0,mortal
+Iliad,11,441,445,Odysseus,Socus,163,2,dialogue,5,0,mortal
+Iliad,11,450,455,Odysseus,Socus,163,3,dialogue,6,0,mortal
+Iliad,11,465,471,Menelaus,Aias (son of Telamon),164,1,monologue,7,0,mortal
+Iliad,11,511,515,Idomeneus,Nestor,165,1,monologue,5,0,mortal
+Iliad,11,523,530,Cebriones,Hector,166,1,monologue,8,0,mortal
+Iliad,11,587,591,Eurypylus,Greeks,167,1,monologue,5,0,mortal
+Iliad,11,606,606,Patroclus,Achilles,168,1,dialogue,1,0,mortal
+Iliad,11,608,615,Achilles,Patroclus,168,2,dialogue,8,0,mortal
+Iliad,11,648,654,Patroclus,Nestor,169,1,dialogue,7,0,mortal
+Iliad,11,656,803,Nestor,Patroclus,169,2,dialogue,148,0,mortal
+Iliad,11,786,789,Menoetius,Patroclus,170,1,monologue,4,1,mortal
+Iliad,11,816,821,Patroclus,Eurypylus,171,1,dialogue,6,0,mortal
+Iliad,11,823,836,Eurypylus,Patroclus,171,2,dialogue,14,0,mortal
+Iliad,11,838,841,Patroclus,Eurypylus,171,3,dialogue,4,0,mortal
+Iliad,12,61,79,Polydamas,Hector,172,1,monologue,19,0,mortal
+Iliad,12,164,172,Asius,Zeus,173,1,monologue,9,0,mortal
+Iliad,12,211,229,Polydamas,Hector,174,1,dialogue,19,0,mortal
+Iliad,12,231,250,Hector,Polydamas,174,2,dialogue,20,0,mortal
+Iliad,12,269,276,Aias (son of Oileus) and Aias (son of Telamon),Greeks,175,1,monologue,8,0,mortal
+Iliad,12,310,328,Sarpedon,Glaucus (Lycian),176,1,monologue,19,0,mortal
+Iliad,12,318,321,someone,self,177,1,soliloquy,4,1,mortal
+Iliad,12,343,350,Menestheus,Thootes,178,1,monologue,8,0,mortal
+Iliad,12,354,363,Thootes,Aias (son of Oileus) and Aias (son of Telamon),179,1,general interlocution,10,0,mortal
+Iliad,12,366,369,Aias (son of Telamon),Aias (son of Oileus),179,2,general interlocution,4,0,mortal
+Iliad,12,409,412,Sarpedon,Lycians,180,1,monologue,4,0,mortal
+Iliad,12,440,441,Hector,Trojans,181,1,monologue,2,0,mortal
+Iliad,13,47,58,Poseidon,Aias (son of Oileus) and Aias (son of Telamon),182,1,monologue,12,0,god
+Iliad,13,68,75,Aias (son of Oileus),Aias (son of Telamon),183,1,dialogue,8,0,mortal
+Iliad,13,77,80,Aias (son of Telamon),Aias (son of Oileus),183,2,dialogue,4,0,mortal
+Iliad,13,95,124,Poseidon,Greeks,184,1,monologue,30,0,god
+Iliad,13,150,154,Hector,Trojans,185,1,monologue,5,0,mortal
+Iliad,13,219,220,Poseidon,Idomeneus,186,1,dialogue,2,0,god
+Iliad,13,222,230,Idomeneus,Poseidon,186,2,dialogue,9,0,mortal
+Iliad,13,232,238,Poseidon,Idomeneus,186,3,dialogue,7,0,god
+Iliad,13,249,253,Idomeneus,Meriones,187,1,dialogue,5,0,mortal
+Iliad,13,255,258,Meriones,Idomeneus,187,2,dialogue,4,0,mortal
+Iliad,13,260,265,Idomeneus,Meriones,187,3,dialogue,6,0,mortal
+Iliad,13,267,273,Meriones,Idomeneus,187,4,dialogue,7,0,mortal
+Iliad,13,275,294,Idomeneus,Meriones,187,6,dialogue,20,0,mortal
+Iliad,13,307,310,Meriones,Idomeneus,187,6,dialogue,4,0,mortal
+Iliad,13,312,327,Idomeneus,Meriones,187,7,dialogue,16,0,mortal
+Iliad,13,374,382,Idomeneus,Othryoneus,188,1,monologue,9,0,mortal
+Iliad,13,414,416,Deiphobus,Hypsenor,189,1,monologue,3,0,mortal
+Iliad,13,446,454,Idomeneus,Deiphobus,190,1,monologue,9,0,mortal
+Iliad,13,463,467,Deiphobus,Aeneas,191,1,monologue,5,0,mortal
+Iliad,13,481,486,Idomeneus,Greeks,192,1,monologue,6,0,mortal
+Iliad,13,620,639,Menelaus,Trojans and Zeus,193,1,monologue,20,0,mortal
+Iliad,13,726,747,Polydamas,Hector,194,1,dialogue,22,0,mortal
+Iliad,13,751,753,Hector,Polydamas,194,2,dialogue,3,0,mortal
+Iliad,13,769,773,Hector,Paris,195,1,dialogue,5,0,mortal
+Iliad,13,775,787,Paris,Hector,195,2,dialogue,13,0,mortal
+Iliad,13,810,820,Aias (son of Telamon),Hector,196,1,dialogue,11,0,mortal
+Iliad,13,824,832,Hector,Aias (son of Telamon),196,2,dialogue,9,0,mortal
+Iliad,14,3,8,Nestor,Machaon,197,1,monologue,6,0,mortal
+Iliad,14,42,51,Agamemnon,Nestor,198,1,general interlocution,10,0,mortal
+Iliad,14,53,63,Nestor,Agamemnon,198,2,general interlocution,11,0,mortal
+Iliad,14,65,81,Agamemnon,Nestor,198,3,general interlocution,17,0,mortal
+Iliad,14,83,102,Odysseus,Agamemnon,198,4,general interlocution,20,0,mortal
+Iliad,14,104,108,Agamemnon,Odysseus,198,5,general interlocution,5,0,mortal
+Iliad,14,110,132,Diomedes,Agamemnon,198,6,general interlocution,23,0,mortal
+Iliad,14,139,146,Poseidon,Agamemnon,199,1,monologue,8,0,god
+Iliad,14,190,192,Hera,Aphrodite,200,1,dialogue,3,0,god
+Iliad,14,194,196,Aphrodite,Hera,200,2,dialogue,3,0,god
+Iliad,14,198,210,Hera,Aphrodite,200,3,dialogue,13,0,god
+Iliad,14,212,213,Aphrodite,Hera,200,4,dialogue,2,0,god
+Iliad,14,219,221,Aphrodite,Hera,200,5,dialogue,3,0,god
+Iliad,14,233,241,Hera,Hypnus,201,1,dialogue,9,0,god
+Iliad,14,243,262,Hypnus,Hera,201,2,dialogue,20,0,god
+Iliad,14,264,268,Hera,Hypnus,201,3,dialogue,5,0,god
+Iliad,14,271,276,Hypnus,Hera,201,4,dialogue,6,0,god
+Iliad,14,298,299,Zeus,Hera,202,1,dialogue,2,0,god
+Iliad,14,301,311,Hera,Zeus,202,2,dialogue,11,0,god
+Iliad,14,313,328,Zeus,Hera,202,3,dialogue,16,0,god
+Iliad,14,330,340,Hera,Zeus,202,4,dialogue,11,0,god
+Iliad,14,342,345,Zeus,Hera,202,5,dialogue,4,0,god
+Iliad,14,357,360,Hypnus,Poseidon,203,1,monologue,4,0,god
+Iliad,14,364,377,Poseidon,Greeks,204,1,monologue,14,0,god
+Iliad,14,454,457,Polydamas,Protoenor,205,1,monologue,4,0,mortal
+Iliad,14,470,474,Aias (son of Telamon),Polydamas,206,1,monologue,5,0,mortal
+Iliad,14,479,485,Acamas,Greeks,207,1,monologue,7,0,mortal
+Iliad,14,501,505,Peneleus,Trojans,208,1,monologue,5,0,mortal
+Iliad,15,14,33,Zeus,Hera,209,1,dialogue,20,0,god
+Iliad,15,36,46,Hera,Zeus,209,2,dialogue,11,0,god
+Iliad,15,49,77,Zeus,Hera,209,3,dialogue,29,0,god
+Iliad,15,90,91,Themis,Hera,210,1,dialogue,2,0,god
+Iliad,15,93,99,Hera,Themis,210,2,dialogue,7,0,god
+Iliad,15,104,112,Hera,gods,211,1,general interlocution,9,0,god
+Iliad,15,115,118,Ares,gods,211,2,general interlocution,4,0,god
+Iliad,15,128,141,Athena,Ares,211,3,general interlocution,14,0,god
+Iliad,15,146,148,Hera,Iris and Apollo,212,1,monologue,3,0,god
+Iliad,15,158,167,Zeus,Iris,213,1,monologue,10,0,god
+Iliad,15,174,183,Iris,Poseidon,214,1,dialogue,10,0,god
+Iliad,15,185,199,Poseidon,Iris,214,2,dialogue,15,0,god
+Iliad,15,201,204,Iris,Poseidon,214,3,dialogue,4,0,god
+Iliad,15,206,217,Poseidon,Iris,214,4,dialogue,12,0,god
+Iliad,15,221,235,Zeus,Apollo,215,1,monologue,15,0,god
+Iliad,15,244,245,Apollo,Hector,216,1,dialogue,2,0,god
+Iliad,15,247,252,Hector,Apollo,216,2,dialogue,6,0,mortal
+Iliad,15,254,261,Apollo,Hector,216,3,dialogue,8,0,god
+Iliad,15,286,299,Thoas,Greeks,217,1,monologue,14,0,mortal
+Iliad,15,347,351,Hector,Trojans,218,1,monologue,5,0,mortal
+Iliad,15,372,376,Nestor,Zeus,219,1,monologue,5,0,mortal
+Iliad,15,399,404,Patroclus,Eurypylus,220,1,monologue,6,0,mortal
+Iliad,15,425,428,Hector,Trojans,221,1,monologue,4,0,mortal
+Iliad,15,437,441,Aias (son of Telamon),Teucrus,222,1,dialogue,5,0,mortal
+Iliad,15,467,470,Teucrus,Aias (son of Telamon),222,2,dialogue,4,0,mortal
+Iliad,15,472,477,Aias (son of Telamon),Teucrus,222,3,dialogue,6,0,mortal
+Iliad,15,486,499,Hector,Trojans,223,1,monologue,14,0,mortal
+Iliad,15,502,513,Aias (son of Telamon),Greeks,224,1,monologue,12,0,mortal
+Iliad,15,553,558,Hector,Melanippus,225,1,monologue,6,0,mortal
+Iliad,15,561,564,Aias (son of Telamon),Greeks,226,1,monologue,4,0,mortal
+Iliad,15,569,571,Menelaus,Antilochus,227,1,monologue,3,0,mortal
+Iliad,15,661,666,Nestor,Greeks,228,1,monologue,6,0,mortal
+Iliad,15,718,725,Hector,Trojans,229,1,monologue,8,0,mortal
+Iliad,15,733,741,Aias (son of Telamon),Greeks,230,1,monologue,9,0,mortal
+Iliad,16,7,19,Achilles,Patroclus,231,1,dialogue,13,0,mortal
+Iliad,16,21,45,Patroclus,Achilles,231,2,dialogue,25,0,mortal
+Iliad,16,49,100,Achilles,Patroclus,231,3,dialogue,52,0,mortal
+Iliad,16,126,129,Achilles,Patroclus,232,1,monologue,4,0,mortal
+Iliad,16,200,209,Achilles,Myrmidons,233,1,monologue,10,0,mortal
+Iliad,16,203,206,Myrmidons,Achilles,234,1,monologue,4,1,mortal
+Iliad,16,233,248,Achilles,Zeus,235,1,monologue,16,0,mortal
+Iliad,16,269,274,Patroclus,Myrmidons,236,1,monologue,6,0,mortal
+Iliad,16,422,425,Sarpedon,Lycians,237,1,monologue,4,0,mortal
+Iliad,16,433,438,Zeus,Hera,238,1,dialogue,6,0,god
+Iliad,16,440,457,Hera,Zeus,238,2,dialogue,18,0,god
+Iliad,16,492,502,Sarpedon,Glaucus (Lycian),239,1,monologue,11,0,mortal
+Iliad,16,514,526,Glaucus (Lycian),Apollo,240,1,monologue,13,0,mortal
+Iliad,16,538,547,Glaucus (Lycian),Hector,241,1,monologue,10,0,mortal
+Iliad,16,556,561,Patroclus,Aias (son of Oileus) and Aias (son of Telamon),242,1,monologue,6,0,mortal
+Iliad,16,617,618,Aeneas,Meriones,243,1,general interlocution,2,0,mortal
+Iliad,16,620,625,Meriones,Aeneas,243,2,general interlocution,5,0,mortal
+Iliad,16,627,631,Patroclus,Meriones,243,3,general interlocution,5,0,mortal
+Iliad,16,667,675,Zeus,Apollo,244,1,monologue,9,0,god
+Iliad,16,707,709,Apollo,Patroclus,245,1,monologue,3,0,god
+Iliad,16,721,725,Apollo,Hector,246,1,monologue,5,0,god
+Iliad,16,745,750,Patroclus,Cebriones,247,1,monologue,6,0,mortal
+Iliad,16,830,842,Hector,Patroclus,248,1,dialogue,13,0,mortal
+Iliad,16,839,841,Achilles,Patroclus,249,1,monologue,3,1,mortal
+Iliad,16,844,854,Patroclus,Hector,248,2,dialogue,11,0,mortal
+Iliad,16,859,861,Hector,Patroclus,248,3,dialogue,3,0,mortal
+Iliad,17,12,17,Euphorbus,Menelaus,250,1,dialogue,6,0,mortal
+Iliad,17,19,32,Menelaus,Euphorbus,250,2,dialogue,14,0,mortal
+Iliad,17,34,42,Euphorbus,Menelaus,250,3,dialogue,9,0,mortal
+Iliad,17,75,81,Apollo,Hector,251,1,monologue,7,0,god
+Iliad,17,91,105,Menelaus,self,252,1,soliloquy,15,0,mortal
+Iliad,17,120,122,Menelaus,Aias (son of Telamon),253,1,monologue,3,0,mortal
+Iliad,17,142,168,Glaucus (Lycian),Hector,254,1,general interlocution,27,0,mortal
+Iliad,17,170,182,Hector,Glaucus (Lycian),254,2,general interlocution,13,0,mortal
+Iliad,17,184,187,Hector,Trojans,254,3,general interlocution,4,0,mortal
+Iliad,17,201,208,Zeus,self,255,1,soliloquy,8,0,god
+Iliad,17,220,232,Hector,Trojans,256,1,monologue,13,0,mortal
+Iliad,17,238,245,Aias (son of Telamon),Menelaus,257,1,dialogue,8,0,mortal
+Iliad,17,248,255,Menelaus,leaders of the Greeks (Greek soldiers),257,2,dialogue,8,0,mortal
+Iliad,17,327,332,Apollo,Aeneas,258,1,monologue,6,0,god
+Iliad,17,335,341,Aeneas,Trojans,259,1,monologue,7,0,mortal
+Iliad,17,415,419,someone,Greeks,260,1,monologue,5,0,mortal
+Iliad,17,421,422,someone,Trojans,261,1,monologue,2,0,mortal
+Iliad,17,443,455,Zeus,horses,262,1,monologue,13,0,god
+Iliad,17,469,473,Alcimedon,Automedon,263,1,dialogue,5,0,mortal
+Iliad,17,475,480,Automedon,Alcimedon,263,2,dialogue,6,0,mortal
+Iliad,17,485,490,Hector,Aeneas,264,1,monologue,6,0,mortal
+Iliad,17,501,506,Automedon,Alcimedon,265,1,monologue,6,0,mortal
+Iliad,17,508,515,Automedon,Aias (son of Oileus) and Aias (son of Telamon) and Menelaus,266,1,monologue,8,0,mortal
+Iliad,17,538,539,Automedon,self,267,1,soliloquy,2,0,mortal
+Iliad,17,556,559,Athena,Menelaus,268,1,dialogue,4,0,god
+Iliad,17,561,566,Menelaus,Athena,268,2,dialogue,6,0,mortal
+Iliad,17,586,590,Apollo,Hector,269,1,monologue,5,0,god
+Iliad,17,622,623,Meriones,Idomeneus,270,1,monologue,2,0,mortal
+Iliad,17,629,647,Aias (son of Telamon),Greeks and Zeus,271,1,monologue,19,0,mortal
+Iliad,17,652,655,Aias (son of Telamon),Menelaus,272,1,general interlocution,4,0,mortal
+Iliad,17,669,672,Menelaus,Aias (son of Oileus) and Aias (son of Telamon) and Meriones,272,2,general interlocution,4,0,mortal
+Iliad,17,685,693,Menelaus,Antilochus,273,1,monologue,9,0,mortal
+Iliad,17,708,714,Menelaus,Aias (son of Oileus) and Aias (son of Telamon),274,1,general interlocution,7,0,mortal
+Iliad,17,716,721,Aias (son of Telamon),Menelaus,274,2,general interlocution,6,0,mortal
+Iliad,18,6,14,Achilles,self,275,1,soliloquy,9,0,mortal
+Iliad,18,18,21,Antilochus,Achilles,276,1,monologue,4,0,mortal
+Iliad,18,52,64,Thetis,Nereids,277,1,monologue,13,0,god
+Iliad,18,73,77,Thetis,Achilles,278,1,dialogue,5,0,god
+Iliad,18,79,93,Achilles,Thetis,278,2,dialogue,15,0,mortal
+Iliad,18,95,96,Thetis,Achilles,278,3,dialogue,2,0,god
+Iliad,18,98,126,Achilles,Thetis,278,4,dialogue,29,0,mortal
+Iliad,18,128,137,Thetis,Achilles,278,5,dialogue,10,0,god
+Iliad,18,140,144,Thetis,Nereids,279,1,monologue,5,0,god
+Iliad,18,170,180,Iris,Achilles,280,1,dialogue,11,0,god
+Iliad,18,182,182,Achilles,Iris,280,2,dialogue,1,0,mortal
+Iliad,18,184,186,Iris,Achilles,280,3,dialogue,3,0,god
+Iliad,18,188,195,Achilles,Iris,280,4,dialogue,8,0,mortal
+Iliad,18,197,201,Iris,Achilles,280,5,dialogue,5,0,god
+Iliad,18,254,283,Polydamas,Hector,281,1,dialogue,30,0,mortal
+Iliad,18,285,309,Hector,Polydamas,281,2,dialogue,25,0,mortal
+Iliad,18,324,342,Achilles,self and Patroclus,282,1,soliloquy,19,0,mortal
+Iliad,18,357,359,Zeus,Hera,283,1,dialogue,3,0,god
+Iliad,18,361,367,Hera,Zeus,283,2,dialogue,7,0,god
+Iliad,18,385,387,Charis,Thetis,284,1,monologue,3,0,god
+Iliad,18,392,392,Charis,Hephaestus,285,1,dialogue,1,0,god
+Iliad,18,394,409,Hephaestus,Charis,285,2,dialogue,16,0,god
+Iliad,18,424,427,Hephaestus,Thetis,286,1,dialogue,4,0,god
+Iliad,18,429,461,Thetis,Hephaestus,286,2,dialogue,33,0,god
+Iliad,18,463,467,Hephaestus,Thetis,286,3,dialogue,5,0,god
+Iliad,19,8,11,Thetis,Achilles,287,1,dialogue,4,0,god
+Iliad,19,21,27,Achilles,Thetis,287,2,dialogue,7,0,mortal
+Iliad,19,29,36,Thetis,Achilles,287,3,dialogue,8,0,god
+Iliad,19,56,73,Achilles,Agamemnon,288,1,general interlocution,18,0,mortal
+Iliad,19,78,144,Agamemnon,Greeks,288,2,general interlocution,67,0,mortal
+Iliad,19,101,105,Zeus,Hera,289,1,dialogue,5,1,god
+Iliad,19,107,111,Hera,Zeus,289,2,dialogue,5,1,god
+Iliad,19,121,124,Hera,Zeus,290,1,monologue,4,1,god
+Iliad,19,146,153,Achilles,Agamemnon,288,3,general interlocution,8,0,mortal
+Iliad,19,155,183,Odysseus,Greeks,288,4,general interlocution,29,0,mortal
+Iliad,19,185,197,Agamemnon,Odysseus,288,5,general interlocution,13,0,mortal
+Iliad,19,199,214,Achilles,Agamemnon,288,6,general interlocution,16,0,mortal
+Iliad,19,216,237,Odysseus,Achilles,288,7,general interlocution,22,0,mortal
+Iliad,19,258,265,Agamemnon,Zeus,291,1,monologue,8,0,mortal
+Iliad,19,270,275,Achilles,Zeus,292,1,monologue,6,0,mortal
+Iliad,19,287,300,Briseis,Patroclus,293,1,soliloquy,14,0,mortal
+Iliad,19,305,308,Achilles,Greeks,294,1,monologue,4,0,mortal
+Iliad,19,315,337,Achilles,Patroclus,295,1,soliloquy,23,0,mortal
+Iliad,19,342,348,Zeus,Athena,296,1,monologue,7,0,god
+Iliad,19,400,403,Achilles,horses,297,1,dialogue,4,0,mortal
+Iliad,19,408,417,horses,Achilles,297,2,dialogue,10,0,animals
+Iliad,19,420,423,Achilles,horses,297,3,dialogue,4,0,mortal
+Iliad,20,16,18,Poseidon,Zeus,298,1,dialogue,3,0,god
+Iliad,20,20,30,Zeus,Poseidon,298,2,dialogue,11,0,god
+Iliad,20,83,85,Apollo,Aeneas,299,1,dialogue,3,0,god
+Iliad,20,87,102,Aeneas,Apollo,299,2,dialogue,16,0,mortal
+Iliad,20,104,109,Apollo,Aeneas,299,3,dialogue,6,0,god
+Iliad,20,115,131,Hera,Athena and Poseidon,300,1,general interlocution,17,0,god
+Iliad,20,133,143,Poseidon,Hera,300,2,general interlocution,11,0,god
+Iliad,20,178,198,Achilles,Aeneas,301,1,dialogue,21,0,mortal
+Iliad,20,200,258,Aeneas,Achilles,301,2,dialogue,59,0,mortal
+Iliad,20,293,308,Poseidon,gods,302,1,general interlocution,16,0,god
+Iliad,20,310,317,Hera,Poseidon,302,2,general interlocution,8,0,god
+Iliad,20,332,339,Poseidon,Aeneas,303,1,monologue,8,0,god
+Iliad,20,344,352,Achilles,self,304,1,soliloquy,9,0,mortal
+Iliad,20,354,363,Achilles,Greeks,305,1,monologue,10,0,mortal
+Iliad,20,366,372,Hector,Trojans,306,1,monologue,7,0,mortal
+Iliad,20,376,378,Apollo,Hector,307,1,monologue,3,0,god
+Iliad,20,389,392,Achilles,Iphition,308,1,monologue,4,0,mortal
+Iliad,20,425,427,Achilles,self,309,1,soliloquy,3,0,mortal
+Iliad,20,429,429,Achilles,Hector,310,1,dialogue,1,0,mortal
+Iliad,20,431,437,Hector,Achilles,310,2,dialogue,7,0,mortal
+Iliad,20,449,454,Achilles,Hector,310,3,dialogue,6,0,mortal
+Iliad,21,54,63,Achilles,Lycaon,311,1,dialogue,10,0,mortal
+Iliad,21,74,96,Lycaon,Achilles,311,2,dialogue,23,0,mortal
+Iliad,21,99,113,Achilles,Lycaon,311,3,dialogue,15,0,mortal
+Iliad,21,122,135,Achilles,Lycaon,311,4,dialogue,14,0,mortal
+Iliad,21,150,151,Achilles,Asteropaeus,312,1,dialogue,2,0,mortal
+Iliad,21,153,160,Asteropaeus,Achilles,312,2,dialogue,8,0,mortal
+Iliad,21,184,199,Achilles,Asteropaeus,312,3,dialogue,16,0,mortal
+Iliad,21,214,221,Scamander,Achilles,313,1,dialogue,8,0,god
+Iliad,21,223,226,Achilles,Scamander,313,2,dialogue,4,0,mortal
+Iliad,21,229,232,Scamander,Apollo,314,1,monologue,4,0,god
+Iliad,21,273,283,Achilles,Zeus,315,1,dialogue,11,0,mortal
+Iliad,21,288,297,Poseidon,Achilles,315,2,dialogue,10,0,god
+Iliad,21,308,323,Scamander,Simoeis,316,1,monologue,16,0,god
+Iliad,21,331,341,Hera,Hephaestus,317,1,monologue,11,0,god
+Iliad,21,357,360,Scamander,Hephaestus,318,1,monologue,4,0,god
+Iliad,21,369,376,Scamander,Hera,319,1,monologue,8,0,god
+Iliad,21,379,380,Hera,Hephaestus,320,1,monologue,2,0,god
+Iliad,21,394,399,Ares,Athena,321,1,dialogue,6,0,god
+Iliad,21,410,414,Athena,Ares,321,2,dialogue,5,0,god
+Iliad,21,420,422,Hera,Athena,322,1,monologue,3,0,god
+Iliad,21,428,433,Athena,Ares and Aphrodite,323,1,monologue,6,0,god
+Iliad,21,436,460,Poseidon,Apollo,324,1,general interlocution,25,0,god
+Iliad,21,462,467,Apollo,Poseidon,324,2,general interlocution,6,0,god
+Iliad,21,472,477,Artemis,Apollo,324,3,general interlocution,6,0,god
+Iliad,21,481,488,Hera,Artemis,324,4,general interlocution,8,0,god
+Iliad,21,498,501,Hermes,Leto,325,1,monologue,4,0,god
+Iliad,21,509,510,Zeus,Artemis,326,1,dialogue,2,0,god
+Iliad,21,512,513,Artemis,Zeus,326,2,dialogue,2,0,god
+Iliad,21,531,536,Priam,Trojans,327,1,monologue,6,0,mortal
+Iliad,21,553,570,Agenor,self,328,1,soliloquy,18,0,mortal
+Iliad,21,583,589,Agenor,Achilles,329,1,monologue,7,0,mortal
+Iliad,22,8,13,Apollo,Achilles,330,1,dialogue,6,0,god
+Iliad,22,15,20,Achilles,Apollo,330,2,dialogue,6,0,mortal
+Iliad,22,38,76,Priam,Hector,331,1,dialogue,39,0,mortal
+Iliad,22,82,89,Hecuba,Hector,331,2,dialogue,8,0,mortal
+Iliad,22,99,130,Hector,self,332,1,soliloquy,32,0,mortal
+Iliad,22,107,107,someone,self,333,1,soliloquy,1,1,mortal
+Iliad,22,168,176,Zeus,gods,334,1,general interlocution,9,0,god
+Iliad,22,178,181,Athena,Zeus,334,2,general interlocution,4,0,god
+Iliad,22,183,185,Zeus,Athena,334,3,general interlocution,3,0,god
+Iliad,22,216,223,Athena,Achilles,335,1,monologue,8,0,god
+Iliad,22,229,231,Athena,Hector,336,1,dialogue,3,0,god
+Iliad,22,233,237,Hector,Athena,336,2,dialogue,5,0,mortal
+Iliad,22,239,246,Athena,Hector,336,3,dialogue,8,0,god
+Iliad,22,250,259,Hector,Achilles,337,1,dialogue,10,0,mortal
+Iliad,22,261,272,Achilles,Hector,337,2,dialogue,12,0,mortal
+Iliad,22,279,288,Hector,Achilles,337,3,dialogue,10,0,mortal
+Iliad,22,297,305,Hector,self,338,1,soliloquy,9,0,mortal
+Iliad,22,331,336,Achilles,Hector,337,4,dialogue,6,0,mortal
+Iliad,22,338,343,Hector,Achilles,337,5,dialogue,6,0,mortal
+Iliad,22,345,354,Achilles,Hector,337,6,dialogue,10,0,mortal
+Iliad,22,356,360,Hector,Achilles,337,7,dialogue,5,0,mortal
+Iliad,22,365,366,Achilles,Hector,337,8,dialogue,2,0,mortal
+Iliad,22,373,374,someone,Greeks,339,1,monologue,2,0,mortal
+Iliad,22,378,394,Achilles,Greeks,340,1,monologue,17,0,mortal
+Iliad,22,416,428,Priam,Trojans,341,1,monologue,13,0,mortal
+Iliad,22,431,436,Hecuba,Hector,342,1,soliloquy,6,0,mortal
+Iliad,22,450,459,Andromache,servants,343,1,monologue,10,0,mortal
+Iliad,22,477,514,Andromache,Hector,344,1,soliloquy,38,0,mortal
+Iliad,22,498,498,children,Astyanax,345,1,monologue,1,1,collective
+Iliad,23,6,11,Achilles,Myrmidons,346,1,monologue,6,0,mortal
+Iliad,23,19,23,Achilles,Patroclus,347,1,soliloquy,5,0,mortal
+Iliad,23,43,53,Achilles,Agamemnon,348,1,monologue,11,0,mortal
+Iliad,23,69,92,Patroclus,Achilles,349,1,dialogue,24,0,mortal
+Iliad,23,94,98,Achilles,Patroclus,349,2,dialogue,5,0,mortal
+Iliad,23,103,107,Achilles,self,350,1,soliloquy,5,0,mortal
+Iliad,23,144,151,Achilles,Spercheius,351,1,soliloquy,8,0,mortal
+Iliad,23,156,160,Achilles,Agamemnon,352,1,monologue,5,0,mortal
+Iliad,23,179,183,Achilles,Patroclus,353,1,soliloquy,5,0,mortal
+Iliad,23,205,211,Iris,winds,354,1,monologue,7,0,god
+Iliad,23,236,248,Achilles,Agamemnon and leaders of the Greeks (Greek soldiers),355,1,monologue,13,0,mortal
+Iliad,23,272,286,Achilles,Agamemnon and leaders of the Greeks (Greek soldiers),356,1,monologue,15,0,mortal
+Iliad,23,306,348,Nestor,Antilochus,357,1,monologue,43,0,mortal
+Iliad,23,403,416,Antilochus,horses,358,1,monologue,14,0,mortal
+Iliad,23,426,428,Menelaus,Antilochus,359,1,monologue,3,0,mortal
+Iliad,23,439,441,Menelaus,Antilochus,360,1,monologue,3,0,mortal
+Iliad,23,443,445,Menelaus,horses,361,1,monologue,3,0,mortal
+Iliad,23,457,472,Idomeneus,leaders of the Greeks (Greek soldiers),362,1,general interlocution,16,0,mortal
+Iliad,23,474,481,Aias (son of Oileus),Idomeneus,362,2,general interlocution,8,0,mortal
+Iliad,23,483,487,Idomeneus,Aias (son of Oileus),362,3,general interlocution,5,0,mortal
+Iliad,23,492,498,Achilles,Aias (son of Oileus) and Idomeneus,362,4,general interlocution,7,0,mortal
+Iliad,23,536,538,Achilles,Greeks,363,1,general interlocution,3,0,mortal
+Iliad,23,543,554,Antilochus,Achilles,363,2,general interlocution,12,0,mortal
+Iliad,23,558,562,Achilles,Antilochus,363,3,general interlocution,5,0,mortal
+Iliad,23,570,585,Menelaus,Antilochus,363,4,general interlocution,16,0,mortal
+Iliad,23,576,578,someone,self,364,1,soliloquy,3,1,mortal
+Iliad,23,587,595,Antilochus,Menelaus,363,5,general interlocution,9,0,mortal
+Iliad,23,602,611,Menelaus,Antilochus,363,6,general interlocution,10,0,mortal
+Iliad,23,618,623,Achilles,Nestor,363,7,general interlocution,6,0,mortal
+Iliad,23,626,650,Nestor,Achilles,363,8,general interlocution,25,0,mortal
+Iliad,23,658,663,Achilles,Greeks,365,1,general interlocution,6,0,mortal
+Iliad,23,667,675,Epeius,Greeks,365,2,general interlocution,9,0,mortal
+Iliad,23,707,707,Achilles,Greeks,366,1,monologue,1,0,mortal
+Iliad,23,723,724,Aias (son of Telamon),Odysseus,367,1,monologue,2,0,mortal
+Iliad,23,735,737,Achilles,Aias (son of Telamon) and Odysseus,368,1,monologue,3,0,mortal
+Iliad,23,753,753,Achilles,Greeks,369,1,monologue,1,0,mortal
+Iliad,23,770,770,Odysseus,Athena,370,1,soliloquy,1,0,mortal
+Iliad,23,782,783,Aias (son of Oileus),Greeks,371,1,general interlocution,2,0,mortal
+Iliad,23,787,792,Antilochus,Greeks,371,2,general interlocution,6,0,mortal
+Iliad,23,795,796,Achilles,Antilochus,371,3,general interlocution,2,0,mortal
+Iliad,23,802,810,Achilles,Greeks,372,1,monologue,9,0,mortal
+Iliad,23,831,835,Achilles,Greeks,373,1,monologue,5,0,mortal
+Iliad,23,855,858,Achilles,Greeks,374,1,monologue,4,0,mortal
+Iliad,23,890,894,Achilles,Agamemnon,375,1,monologue,5,0,mortal
+Iliad,24,33,54,Apollo,gods,376,1,general interlocution,22,0,god
+Iliad,24,56,63,Hera,Apollo,376,2,general interlocution,8,0,god
+Iliad,24,65,76,Zeus,Hera,376,3,general interlocution,12,0,god
+Iliad,24,88,88,Iris,Thetis,377,1,dialogue,1,0,god
+Iliad,24,90,92,Thetis,Iris,377,2,dialogue,3,0,god
+Iliad,24,104,119,Zeus,Thetis,378,1,monologue,16,0,god
+Iliad,24,128,137,Thetis,Achilles,379,1,dialogue,10,0,god
+Iliad,24,139,140,Achilles,Thetis,379,2,dialogue,2,0,mortal
+Iliad,24,144,158,Zeus,Iris,380,1,monologue,15,0,god
+Iliad,24,171,187,Iris,Priam,381,1,monologue,17,0,god
+Iliad,24,194,199,Priam,Hecuba,382,1,dialogue,6,0,mortal
+Iliad,24,201,216,Hecuba,Priam,382,2,dialogue,16,0,mortal
+Iliad,24,218,227,Priam,Hecuba,382,3,dialogue,10,0,mortal
+Iliad,24,239,246,Priam,Trojans,383,1,monologue,8,0,mortal
+Iliad,24,253,264,Priam,Helenus and Paris and Agathon and Pammon and Antiphonus and Polites and Deiphobus and Hippothous and Dius,384,1,monologue,12,0,mortal
+Iliad,24,287,298,Hecuba,Priam,385,1,dialogue,12,0,mortal
+Iliad,24,300,301,Priam,Hecuba,385,2,dialogue,2,0,mortal
+Iliad,24,308,313,Priam,Zeus,386,1,soliloquy,6,0,mortal
+Iliad,24,334,338,Zeus,Hermes,387,1,monologue,5,0,god
+Iliad,24,354,357,Idaeus,Priam,388,1,monologue,4,0,mortal
+Iliad,24,362,371,Hermes,Priam,389,1,dialogue,10,0,god
+Iliad,24,373,377,Priam,Hermes,389,2,dialogue,5,0,mortal
+Iliad,24,379,385,Hermes,Priam,389,3,dialogue,7,0,god
+Iliad,24,387,388,Priam,Hermes,389,4,dialogue,2,0,mortal
+Iliad,24,390,404,Hermes,Priam,389,5,dialogue,15,0,god
+Iliad,24,406,409,Priam,Hermes,389,6,dialogue,4,0,mortal
+Iliad,24,411,423,Hermes,Priam,389,7,dialogue,13,0,god
+Iliad,24,425,431,Priam,Hermes,389,8,dialogue,7,0,mortal
+Iliad,24,433,439,Hermes,Priam,389,9,dialogue,7,0,god
+Iliad,24,460,467,Hermes,Priam,390,1,monologue,8,0,god
+Iliad,24,486,506,Priam,Achilles,391,1,dialogue,21,0,mortal
+Iliad,24,518,551,Achilles,Priam,391,2,dialogue,34,0,mortal
+Iliad,24,553,558,Priam,Achilles,391,3,dialogue,6,0,mortal
+Iliad,24,560,570,Achilles,Priam,391,4,dialogue,11,0,mortal
+Iliad,24,592,595,Achilles,Patroclus,392,1,soliloquy,4,0,mortal
+Iliad,24,599,620,Achilles,Priam,391,5,dialogue,22,0,mortal
+Iliad,24,635,642,Priam,Achilles,391,6,dialogue,8,0,mortal
+Iliad,24,650,658,Achilles,Priam,391,7,dialogue,9,0,mortal
+Iliad,24,660,667,Priam,Achilles,391,8,dialogue,8,0,mortal
+Iliad,24,669,670,Achilles,Priam,391,9,dialogue,2,0,mortal
+Iliad,24,683,688,Hermes,Priam,393,1,monologue,6,0,god
+Iliad,24,704,706,Cassandra,Trojans,394,1,monologue,3,0,mortal
+Iliad,24,716,717,Priam,Trojans,395,1,monologue,2,0,mortal
+Iliad,24,725,745,Andromache,Hector,396,1,soliloquy,21,0,mortal
+Iliad,24,748,759,Hecuba,Hector,397,1,soliloquy,12,0,mortal
+Iliad,24,762,775,Helena,Hector,398,1,soliloquy,14,0,mortal
+Iliad,24,778,781,Priam,Trojans,399,1,monologue,4,0,mortal
