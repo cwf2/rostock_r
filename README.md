@@ -14,8 +14,8 @@ These are published by R Studio. You can find the main list [here](https://www.r
 - [RStudio](https://github.com/rstudio/cheatsheets/blob/main/rstudio-ide.pdf)
 - [data transformation](https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf)
 - [strings](https://github.com/rstudio/cheatsheets/blob/main/strings.pdf)
-- [ggplot2](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
 - [regex](https://github.com/rstudio/cheatsheets/blob/main/regex.pdf)
+- [ggplot2](https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf)
 
 ## References
 
